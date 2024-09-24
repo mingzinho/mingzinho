@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+my+name+is+Ming.;I'm+23+years+old.;I+study+Systems+Development;Welcome!+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Ming.;I'm+23+years+old.;I+study+Systems+Development;Welcome!+%3AD)](https://git.io/typing-svg)
+
 
 
 # 👩🏻‍💻 About Me
