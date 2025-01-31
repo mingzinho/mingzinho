@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 About Me
 
-Hello! My name is Ming, and I am an undergraduate student in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
+Hello! My name is Ming, and I am graduated in Systems Analysis and Development at FIAP. I am passionate about technology, especially in the areas of data and artificial intelligence. Additionally, I have experience in software development and am always seeking new programming challenges to enhance my skills.
 
 ## 📚 Areas of Interest
  - Software Development
